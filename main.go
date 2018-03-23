@@ -14,7 +14,6 @@ Card Dealer (Soon to be black jack, I hope...)
 
 Author: Garett Skaar
 
-Go LW1 program CS-354
 
 */
 
