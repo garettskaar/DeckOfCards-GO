@@ -12,6 +12,8 @@ will print out to the screen (Suit and Number).
 ## Usage
 
 GO is very well documented, the link below will take you to GO's install
-page
+page. There is instructions for Linux, Mac, and Windows.
 
 [GO Install](https://golang.org/doc/install)
+
+You can also run GO programs on [repl.it](https://repl.it)
